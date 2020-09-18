@@ -20,7 +20,7 @@ Some of the tasks a curator may perform:
 - Verify metadata quality and augment or restructure to facilitate discoverability and interoperability
 - Request missing or ambiguous information or changes from data creators
 
-**Relevant tools and resources:**
+Relevant tools and resources:
 
 <ul>
   {% assign postlang = site.data.navigation.languages %}
